@@ -69,4 +69,4 @@ Update the sample applications config_basic.py as follows:
 
 ## Documentation 
 
-1. APIs
+1. [API Reference](https://docs.valence.desire2learn.com/reference.html)
