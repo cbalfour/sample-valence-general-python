@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project contains python sample ID Key Authorization applications for the D2L [BrightSpace](https://brightspace.com) learning management system (LMS) environment.
+This project contains python sample [legacy](https://docs.valence.desire2learn.com/basic/legacyauth.html) ID Key Authorization applications for the D2L [BrightSpace](https://brightspace.com) learning management system (LMS) environment.
 
 ## Dependencies
 
