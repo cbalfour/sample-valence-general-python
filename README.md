@@ -6,18 +6,18 @@ This project contains sample ID Key Authorization applications for the D2L Brigh
 
 ## Dependencies
 
-Install the following dependencies via pip:
-
+Setup a Python 3 [virtual environment](https://docs.python.org/3/library/venv.html) and install the following dependencies via pip:
 * d2lvalence
 * d2lvalence_util
 * beaker
 * bottle
 * requests
 
-
 ## Development Environment
 
-BrightSpace has a developer instance at devcop.brightspace.com. To get full access - with various different account types do the following:
+BrightSpace has a developer instance at [devcop.brightspace.com](https://devcop.brightspace.com). 
+
+To get full access - with account types including administrator, instructor and student - do the following:
 
 1. Join the [BrightSpace Community](https://community.brightspace.com/)
 1. Join the [Developer group](https://community.brightspace.com/s/group/0F9610000001mZ1CAI)
@@ -27,7 +27,7 @@ For more information see [this](https://community.brightspace.com/s/article/New-
 
 ### Register a ID Key Authorization application
 
-1. Log into devcop.brightspace.com as user DevCoPAdmin
+1. Log into [devcop.brightspace.com](https://devcop.brightspace.com) as user DevCoPAdmin
 1. Click on the Admin Tools cog > Manage Extensibility
 1. Click ID Key Authorization Tab
 1. Register an app
