@@ -56,4 +56,17 @@ Update the sample applications config_basic.py as follows:
 1. If you are not already logged into devcop.brightspace.com you will be asked to enter username and password. Use credentials for DevCoPStudent
 1. If authentication is successful you should be redirected back to to the sample app 
 
+## Application-specific Notes
 
+### Basic
+
+### ProfileChange
+
+### FinalGrades
+
+* lms_student_role_id: 110. Check this value via the roles [API](https://devcop.brightspace.com/d2l/api/lp/1.0/roles/)
+* lms_course_offering_type_id: 
+
+## Documentation 
+
+1. APIs
