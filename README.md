@@ -18,9 +18,10 @@ Install the following dependencies via pip:
 ## Development Environment
 
 BrightSpace has a developer instance at devcop.brightspace.com. To get full access - with various different account types do the following:
-#. Join the BrightSpace Community [https://community.brightspace.com/]
-#. Join the Developer group [https://community.brightspace.com/s/group/0F9610000001mZ1CAI]
-#. Download the Developer Instance Credentials PDF file under Files in the Developer group site.
+
+1. Join the BrightSpace Community [https://community.brightspace.com/]
+1. Join the Developer group [https://community.brightspace.com/s/group/0F9610000001mZ1CAI]
+1. Download the Developer Instance Credentials PDF file under Files in the Developer group site.
 
 For more information see https://community.brightspace.com/s/article/New-Dev-Environment-for-Extensibility-Experimentation
 
